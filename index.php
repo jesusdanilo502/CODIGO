@@ -2,6 +2,7 @@
 <html lang="en">
 
 <head>
+     <!-- idioma configuracion -->
     <meta charset="utf-8">
     
     <title>Ventas - Sistema Ventas www.onemas.co</title>
