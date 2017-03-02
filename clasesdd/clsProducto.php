@@ -85,7 +85,10 @@ function consultarTotalProductos(){
        return true;
    }
  }
- function consultarProductoIdMaximo(){
+ function Nuevafuncion(){
+     
+ }
+         function consultarProductoIdMaximo(){
    //creamos el objeto $con a partir de la clase clsConexion
    $con = new clsConexion;
    //usamos el metodo conectar para realizar la conexion
